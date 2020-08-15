@@ -39,7 +39,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Work
+            Works
           </button>
         </li>
         <li>
