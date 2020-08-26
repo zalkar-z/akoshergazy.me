@@ -51,13 +51,10 @@
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"Resume": "",
-
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"ContactStartLine": "Feel free to reach out with collaboration ideas and projects at akylaiyms@gmail.com",
+	"ContactSocialText": "You can also find me on social media :",
+	"linkedin": "https://www.linkedin.com/in/ako-shergazy/",
+	"youtube": "https://www.youtube.com/channel/UCOcV8PqUv2923YjbOUwSANQ/videos",
+	"facebook": "https://www.facebook.com/akylaiym.shergazy",
+	"soundcloud": "https://soundcloud.com/byminmj"
 }
