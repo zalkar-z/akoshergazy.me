@@ -12,40 +12,40 @@
 		"Ako Shergazy’s professional experience varies from music education to audio & video engineering. In summer 2019 Ako worked at one of the Fresh Air Fund’s camps as a Music Technology specialist and educator. Following that summer, she was responsible for Bennington College’s recording studio and for assisting students with troubleshooting. For her winter internship, Ako went back to Kyrgyzstan and worked as a Live Audio & Video Intern at Radio Liberty in Bishkek. In summer 2020 she picked up an intern position at Chelsea Music Festival where she performs as Audio & Video Engineer."
 	],
 
-	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
-	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkContent": [],
+	"WorkImage": "",
+	"InternshipsStartLine": "Compositions:",
 	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
+			"name": "Portraits (2020) By Ako Shergazy",
+			"link": "https://soundcloud.com/byminmj/portraits-2020-by-ako-shergazy"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Stalker, Dream Scene film by Andrei Tarkovsky, music by Ako Shergazy (2019)",
+			"link": "https://youtu.be/n18IqNKQvg8"
 		}
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"ProjectsStartLine": "Sound Design:",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Sounding COVID - 19 (2020) By Ako Shergazy",
+			"link": "https://soundcloud.com/byminmj/sounding-covid-19-2020-by-ako-shergazy"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Quarantine Diary By Ako Shergazy (2020)",
+			"link": "https://soundcloud.com/byminmj/quarantine-diary-by-ako-shergazy-2020"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Dream (Short film by Ako Shergazy and Cameron Cano) (2019)",
+			"link": "https://youtu.be/4kIPyyxQi8I"
+		}
+	],
+	"MixingStartLine": "Mixing:",
+	"Mixing": [{
+			"name": "Invisible Familiars - Disturbing Wildlife (mixed By Ako Shergazy (2020))",
+			"link": "https://soundcloud.com/byminmj/invisible-familiars-disturbing-wildlife-mixed-by-ako-shergazy-2020"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "BC Camplight - Your Daddy Is A Little Girl (mixed By Ako Shergazy (2020)) ",
+			"link": "https://soundcloud.com/byminmj/bc-camplight-your-daddy-is-a-little-girl-mixed-by-ako-shergazy-2020"
 		}
 	],
 

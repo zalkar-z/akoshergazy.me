@@ -49,22 +49,22 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Work</h2>
-          <span className="image main">
-            <img src={JSONData.WorkImage} alt="" />
-          </span>
-
-            {JSONData.WorkContent}
-            <br/><br/>
             {JSONData.InternshipsStartLine}
             <ul>
               {JSONData.InternShips.map((item) => {
-              return (<li><a href={item.link}>{item.name}</a><br/></li>)
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
             })}
             </ul>
             {JSONData.ProjectsStartLine}
             <ul>
               {JSONData.Projects.map((item) => {
-              return (<li><a href={item.link}>{item.name}</a><br/></li>)
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
+            })}
+            </ul>
+            {JSONData.MixingStartLine}
+            <ul>
+              {JSONData.Mixing.map((item) => {
+              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
             })}
             </ul>
           
