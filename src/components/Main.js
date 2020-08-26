@@ -28,12 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About Me</h2>
-          <span className="image main">
-            <div >
-              <img src={JSONData.AboutImage} alt="" />
-            </div>
-          </span>
+          <h2 className="major" style={{ marginBottom: 0 }}>About Me</h2>
           {/* <p> */}
           {JSONData.AboutContent.map((item) => {
             return (<div><br/>{item}</div>)
