@@ -48,7 +48,7 @@ const Header = props => (
               props.onOpenArticle('about')
             }}
           >
-            CV
+            Resume
           </button>
         </li>
         <li>
