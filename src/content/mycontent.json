@@ -36,6 +36,11 @@
 		{
 			"name": "Dream (Short film by Ako Shergazy and Cameron Cano) (2019)",
 			"link": "https://youtu.be/4kIPyyxQi8I"
+		},
+		{
+			"name": "new thing",
+			"link": "google.com",
+			"embedYoutube": true
 		}
 	],
 	"MixingStartLine": "Mixing:",

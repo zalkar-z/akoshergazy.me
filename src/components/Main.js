@@ -2,6 +2,8 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import JSONData from "../content/mycontent.json"
 
+import Video from '../components/Video'
+
 class Main extends React.Component {
   render() {
     let close = (
@@ -58,7 +60,7 @@ class Main extends React.Component {
             {JSONData.ProjectsStartLine}
             <ul>
               {JSONData.Projects.map((item) => {
-              return (<li><a href={item.link} target="_blank">{item.name}</a><br/></li>)
+              return (<Video item={item}></Video>)
             })}
             </ul>
             {JSONData.MixingStartLine}
