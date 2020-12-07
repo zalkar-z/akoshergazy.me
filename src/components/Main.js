@@ -60,7 +60,7 @@ class Main extends React.Component {
             {JSONData.ProjectsStartLine}
             <ul>
               {JSONData.Projects.map((item) => {
-              return (<Video item={item}></Video>)
+              return (<li><Video item={item}></Video></li>)
             })}
             </ul>
             {JSONData.MixingStartLine}
