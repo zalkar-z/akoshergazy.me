@@ -2,20 +2,23 @@
 	"Title": "Ako Shergazy | Personal Website",
 	"Name": "Ako Shergazy",
 	"Description": [
-		"Junior at Bennington College (VT, US). Passionate about Sound Design, Music Composition, and Music Technology. ",
-		"I grab every chance I get to travel, learn and create."
+		"Senior at Bennington College (VT, US). Passionate about Sound Design, Composing, and Game Programming. ",
+		"I grab every chance I get to travel, learn and collaborate."
 	],
 	"MainImage": "https://raw.githubusercontent.com/zalkar-z/akoshergazy.me/master/src/images/profile-pic.jpg",
 	"BackgroundURL": "",
 	"AboutContent": [
-		"Ako was born and raised in Kyrgyzstan, and after graduating from Aichurok High School she moved to the US to pursue her bachelor’s degree at Bennington College where she is double majoring in Audio Engineering and Composition. Ako’s works include compositions for solo piano, string quartet, sound design, and film scoring for moving images. She also has a set of songs she worked on as an audio engineer and mixer. ",
-		"Ako Shergazy’s professional experience varies from music education to audio & video engineering. In summer 2019 Ako worked at one of the Fresh Air Fund’s camps as a Music Technology specialist and educator. Following that summer, she was responsible for Bennington College’s recording studio and for assisting students with troubleshooting. For her winter internship, Ako went back to Kyrgyzstan and worked as a Live Audio & Video Intern at Radio Liberty in Bishkek. In summer 2020 she picked up an intern position at Chelsea Music Festival where she performs as Audio & Video Engineer."
+		"My professional experience varies from music education to audio engineering & recording, foley & sound design, composing for films, and game development. I am a very curious person, and I am constantly in search of new concepts and ideas that bring inspiration to my inter-disciplinary work. "
 	],
 
 	"WorkContent": [],
 	"WorkImage": "",
 	"InternshipsStartLine": "Compositions:",
 	"InternShips": [{
+			"name": "Cry of My Land (2021) for cello and piano by Ako Shergazy (2019)",
+			"link": "https://youtu.be/nDPJxaYU7-E"
+		},
+		{
 			"name": "Portraits (2020) By Ako Shergazy",
 			"link": "https://soundcloud.com/byminmj/portraits-2020-by-ako-shergazy"
 		},
@@ -26,26 +29,39 @@
 	],
 	"ProjectsStartLine": "Sound Design:",
 	"Projects": [{
-			"name": "Sounding COVID - 19 (2020) By Ako Shergazy",
+			"name": "Erie County Smile (2021), film by Van Tran Nguyen, sound design and foley by Ako Shergazy",
+			"link": "https://www.vantrannguyen.com/2020/eriecountysmile"
+		},
+		{
+			"name": "Sounding COVID - 19 (2020) by Ako Shergazy",
 			"link": "https://soundcloud.com/byminmj/sounding-covid-19-2020-by-ako-shergazy"
 		},
 		{
-			"name": "Quarantine Diary By Ako Shergazy (2020)",
+			"name": "Quarantine Diary (2020) by Ako Shergazy",
 			"link": "https://soundcloud.com/byminmj/quarantine-diary-by-ako-shergazy-2020"
 		},
 		{
-			"name": "Dream (Short film by Ako Shergazy and Cameron Cano) (2019)",
+			"name": "Dream (2019) short film by Ako Shergazy and Cameron Cano",
 			"link": "https://youtu.be/4kIPyyxQi8I"
 		},
 		{
-			"name": "Prism (2020) by Emma Blaise Doty and Ako Shergazy",
-			"link": "https://youtu.be/jTxfl3nJ3jA",
-			"new": true,
-			"embedYoutube": true
+			"name": "Prism (2020) film by Emma Blaise Doty, sound design by Ako Shergazy",
+			"link": "https://youtu.be/4LSqtUeeOlI",
+			"embedLink": "/prism"
+		},
+		{
+			"name": "Advanced Work (2021) by Ako Shergazy",
+			"link": "https://youtu.be/2P1pP670UZg",
+			"embedLink": "/advanced-work",
+			"new": true
 		}
 	],
 	"MixingStartLine": "Mixing:",
 	"Mixing": [{
+			"name": "Erie County Smile (2021), film by Van Tran Nguyen, mixing and mastering by Ako Shergazy",
+			"link": "https://www.vantrannguyen.com/2020/eriecountysmile"
+		},
+		{
 			"name": "Invisible Familiars - Disturbing Wildlife (mixed By Ako Shergazy (2020))",
 			"link": "https://soundcloud.com/byminmj/invisible-familiars-disturbing-wildlife-mixed-by-ako-shergazy-2020"
 		},
@@ -56,8 +72,8 @@
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"Resume": "https://drive.google.com/file/d/1TRIt9poBPxU4XuoPwouufqHvRSOnUvFU/view?usp=sharing",
-	"ContactStartLine": "Feel free to reach out with collaboration ideas and projects at akylaiyms@gmail.com",
+	"Resume": "https://drive.google.com/file/d/1kDZ-AuiQ4TkoERNxZM8aTc83vRLcxaGP/view?usp=sharing",
+	"ContactStartLine": "Feel free to reach out with collaboration ideas and projects at akylaiyms@bennington.edu",
 	"ContactSocialText": "You can also find me on social media :",
 	"linkedin": "https://www.linkedin.com/in/ako-shergazy/",
 	"youtube": "https://www.youtube.com/channel/UCOcV8PqUv2923YjbOUwSANQ/videos",

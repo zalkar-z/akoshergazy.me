@@ -7,7 +7,7 @@ const Video = ({ item }) => {
   return (
     <div>
       <p style={{ margin: '2px', fontWeight: fontWeight }}>
-        <a href={has(item, 'embedYoutube') ? '/prism' : item.link} target="_blank" rel="noreferrer">
+        <a href={has(item, 'embedLink') ? item.embedLink : item.link} target="_blank" rel="noreferrer">
           {has(item, 'new') ? 'NEW: ' : ''}{item.name}
         </a>
       </p>
