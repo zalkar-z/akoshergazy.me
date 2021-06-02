@@ -21,7 +21,11 @@ const AdvancedWork = () => {
         <p>I couldn’t come up with the most appropriate title for my project just yet, because it is still a work-in-progress and still an amusing mystery for me. But overall, this project highlights the interdisciplinary work I have done during my time at Bennington. 
 	        This is a sound-only release of my work which will be an installation (virtual and physical) that holds a virtual world I am creating to present the compositions I wrote over the past four years. My interest in game development led me to this concept of presenting my work, the aspect of user interactivity has played a large part in the development of this idea as well. I am creating an immersive world where the audience can physically be a part of my virtual world and experience musical performances. With the entire world shifting to a remote online lifestyle I thought it would be an interesting delivery of my work to the outside world, which also aligned with my academic focus in computer science.</p>
         <p>Allen Shawn on piano, Nathaniel Parke on Cello.</p>
-      
+        <script>
+         function display() {
+            document.getElementById("myID").style.fontFamily = "verdana,sans-serif"
+         }
+      </script>
       </div>
     </div>
   )
