@@ -10,7 +10,7 @@ const AdvancedWork = () => {
         <iframe
             width="100%"
             height="415"
-            src="https://drive.google.com/file/d/1X7g8XcQczu6ovjntnyVoScR0aK0424zp/view?usp=sharing"
+            src="https://youtu.be/3JqgKskioyU"
             frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
