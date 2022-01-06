@@ -8,7 +8,8 @@ const AdvancedWork = () => {
       </div>
       <div style={{ marginTop: '50px' }}>
       <iframe 
-      width="560" height="315" 
+      width="100%"
+      height="415"
       src="https://www.youtube.com/embed/3JqgKskioyU" 
       title="YouTube video player" 
       frameborder="0" 
