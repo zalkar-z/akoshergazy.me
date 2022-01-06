@@ -31,11 +31,6 @@ const AdvancedWork = () => {
 
         <em>Discovering Your Other Digital Self</em> debuted as an installation piece in Bennington College, VT in November 2021. The online VR version of the piece will be available in late 2022.
         </p>
-        <script>
-        function myFunction() {
-          alert(document.getElementById("demo").style.fontFamily)
-        }
-        </script>
       </div>
     </div>
   )
