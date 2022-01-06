@@ -5,7 +5,7 @@
 		"A digital sound artist based in Bay Area, CA. Passionate about Sound Design, Composing, and Game Programming. ",
 		"I grab every chance I get to travel, learn and collaborate."
 	],
-	"MainImage": "https://drive.google.com/file/d/1VeEREb7i2YnqwxfwcUVEMRUb4wfb6eQO/preview",
+	"MainImage": "https://raw.githubusercontent.com/zalkar-z/akoshergazy.me/master/src/images/profile.jpg",
 	"BackgroundURL": "",
 	"AboutContent": [
 		"My professional experience varies from music education to audio engineering & recording, foley & sound design, composing for films, and game development. I am a very curious person, and I am constantly in search of new concepts and ideas that bring inspiration to my inter-disciplinary work. "
@@ -55,7 +55,7 @@
 		},
 		{
 			"name": "Discovering Your Other Digital Self (2021) by Ako Shergazy",
-			"link": "https://www.youtube.com/watch?v=3JqgKskioyU&ab_channel=AkoShergazy",
+			"link": "https://youtu.be/3JqgKskioyU",
 			"embedLink": "/advanced-work",
 			"new": true
 		}
