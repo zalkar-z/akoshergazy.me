@@ -7,14 +7,14 @@ const AdvancedWork = () => {
         <h1>Dyscovering Your Other Digital Self (VR/Installation)</h1>
       </div>
       <div style={{ marginTop: '50px' }}>
-        <iframe
-            width="100%"
-            height="415"
-            src="https://youtu.be/3JqgKskioyU"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
+      <iframe 
+      width="560" height="315" 
+      src="https://www.youtube.com/embed/3JqgKskioyU" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+      </iframe>
       </div>
       <div style={{ marginTop: '20px', textAlign: 'left'}}>
         <p><span style={{ fontWeight: '500' }}>ARTIST STATEMENT</span> by Ako Shergazy:</p>
