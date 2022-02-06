@@ -15,19 +15,19 @@
 	"WorkImage": "",
 	"InternshipsStartLine": "Compositions:",
 	"InternShips": [{
-		"name": "Piano Trio (2021) by Ako Shergazy",
+		"name": "Piano Trio (2021)",
 		"link": "https://soundcloud.com/byminmj/ako-shergazy-piano-trio-2021"
 		},
 		{
-			"name": "Cry of My Land (2021) for cello and piano by Ako Shergazy",
+			"name": "Cry of My Land (2021)",
 			"link": "https://youtu.be/nDPJxaYU7-E"
 		},
 		{
-			"name": "Portraits (2020) By Ako Shergazy",
+			"name": "Portraits (2020)",
 			"link": "https://soundcloud.com/byminmj/portraits-2020-by-ako-shergazy"
 		},
 		{
-			"name": "Stalker, Dream Scene film by Andrei Tarkovsky, music by Ako Shergazy (2019)",
+			"name": "Stalker, Dream Scene film by Andrei Tarkovsky(2019)",
 			"link": "https://youtu.be/n18IqNKQvg8"
 		}
 	],
@@ -37,15 +37,15 @@
 			"link": "https://www.vantrannguyen.com/2020/eriecountysmile"
 		},
 		{
-			"name": "Sounding COVID - 19 (2020) by Ako Shergazy",
+			"name": "Sounding COVID - 19 (2020)",
 			"link": "https://soundcloud.com/byminmj/sounding-covid-19-2020-by-ako-shergazy"
 		},
 		{
-			"name": "Quarantine Diary (2020) by Ako Shergazy",
+			"name": "Quarantine Diary (2020)",
 			"link": "https://soundcloud.com/byminmj/quarantine-diary-by-ako-shergazy-2020"
 		},
 		{
-			"name": "Dream (2019) short film by Ako Shergazy and Cameron Cano",
+			"name": "Dream (2019)",
 			"link": "https://youtu.be/4kIPyyxQi8I"
 		},
 		{
@@ -54,7 +54,7 @@
 			"embedLink": "/prism"
 		},
 		{
-			"name": "Discovering Your Other Digital Self (2021) by Ako Shergazy",
+			"name": "Discovering Your Other Digital Self (2021)",
 			"link": "https://youtu.be/3JqgKskioyU",
 			"embedLink": "/advanced-work"
 		}
